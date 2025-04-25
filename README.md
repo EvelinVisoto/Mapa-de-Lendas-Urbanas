@@ -20,7 +20,7 @@ This project uses cartographic data from [OpenStreetMap](https://www.openstreetm
 
 ### Author
 
-Developed by **Evelin Visoto** – 2024  
+Developed by **Evelin Visoto** – 2025  
 📌 GitHub Repository: [Urban Legends Map](https://github.com/EvelinVisoto/Mapa-de-Lendas-Urbanas)
 
 _This project is being developed for educational purposes, aiming at **familiarization with new APIs** and the structuring of **data in JSON**._
