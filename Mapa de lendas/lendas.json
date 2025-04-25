@@ -1,0 +1,129 @@
+[
+    {
+        "nome": "Curupira",
+        "local": "Amazônia",
+        "descricao": "Guardião das florestas com pés virados para trás.",
+        "imagem": "imagens/curupira.webp",
+        "latitude": -3.4653,
+        "longitude": -62.2159
+    },
+
+    {
+        "nome": "Loira do Banheiro",
+        "local": "Escolas brasileiras",
+        "descricao": "Aparição de uma mulher em banheiros escolares.",
+        "imagem": "imagens/Loira do Banheiro.webp",
+        "latitude": -23.5505,
+        "longitude": -46.6333
+    },
+
+    {
+        "nome": "Mula sem Cabeça",
+        "local": "Brasil",
+        "descricao": "Mulher amaldiçoada que se transforma em mula sem cabeça.",
+        "imagem": "imagens/mula sem cabeça.webp",
+        "latitude": -15.7801,
+        "longitude": -47.9292
+    },
+
+    {
+        "nome": "O Bradador",
+        "local": "Centro-Sul do Brasil",
+        "descricao": "Alma penada que vaga pelos campos gritando e lamentando.",
+        "imagem": "imagens/bradador.webp",
+        "latitude": -28.0000,
+        "longitude": -52.0000
+    },
+
+    {
+        "nome": "Dona Yayá",
+        "local": "São Paulo",
+        "descricao": "Espírito de uma mulher que assombra um casarão no bairro da Bela Vista.",
+        "imagem": "imagens/Dona Yayá.jpg",
+        "latitude": -23.5636,
+        "longitude": -46.6483
+    },
+
+    {
+        "nome": "O Fantasma de Tereza Bicuda",
+        "local": "Jaraguá, Goiás",
+        "descricao": "Espírito de uma mulher com lábios grossos que humilhou sua mãe em vida.",
+        "imagem": "imagens/Tereza Bicuda.webp",
+        "latitude": -16.0703,
+        "longitude": -49.5427
+    },
+
+    {
+        "nome": "Curacanga",
+        "local": "Pará e Maranhão",
+        "descricao": "Mulher com cabeça em chamas que vaga pelos campos deixando destruição.",
+        "imagem": "imagens/Cumacanga.jpg",
+        "latitude": -2.8000,
+        "longitude": -45.3000
+    },
+
+    {
+        "nome": "O Opala Preto",
+        "local": "Túnel Rebouças, Rio de Janeiro",
+        "descricao": "Carro fantasmagórico de um bandido que assombra o túnel após um acidente fatal.",
+        "imagem": "imagens/Opala Preto.webp",
+        "latitude": -22.9413,
+        "longitude": -43.2095
+    },
+
+    {
+        "nome": "Bárbara dos Prazeres",
+        "local": "Centro do Rio de Janeiro",
+        "descricao": "Espírito de uma mulher que matou seus maridos e incendiou sua casa.",
+        "imagem": "imagens/Bárbara dos prazeres.jpg",
+        "latitude": -22.9068,
+        "longitude": -43.1735
+    },
+
+    {
+        "nome": "Corpo Seco",
+        "local": "Interior do Brasil",
+        "descricao": "Espírito de um homem que se tornou cadavérico e assombra a região.",
+        "imagem": "imagens/Corpo Seco.webp",
+        "latitude": -19.0000,
+        "longitude": -48.0000
+    },
+
+    {
+        "nome": "Xuxa",
+        "local": "Brasil",
+        "descricao": "Lenda urbana envolvendo a cantora Xuxa e um suposto pacto com o diabo.",
+        "imagem": "imagens/Xuxa.jpg",
+        "latitude": -23.5505,
+        "longitude": -46.6333
+    },
+
+    {
+        "nome": "Chupa-Cabra",
+        "local": "Brasil e Porto Rico",
+        "descricao": "Criatura misteriosa que ataca animais, deixando marcas de mordidas no pescoço.",
+        "imagem": "imagens/Chupa_Cabra.webp",
+        "latitude": -14.2350,
+        "longitude": -51.9253
+    },
+
+    {
+        "nome": "Boto",
+        "local": "Amazônia",
+        "descricao": "",
+        "imagem": "imagens/boto.jpg",
+        "latitude": -3.4653,
+        "longitude": -62.2159
+    },
+
+    {
+        "nome": "Lobisomem",
+        "local": "Europa e Brasil",
+        "descricao": "Homem que se transforma em lobo nas noites de lua cheia.",
+        "imagem": "imagens/lobisomem.jpg",
+        "latitude": 51.1657,
+        "longitude": 10.4515
+    }
+]
+
+  

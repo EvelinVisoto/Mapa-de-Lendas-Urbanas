@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> Mapa de Lendas Urbanas</title>
+    
+    <!-- Estilos -->
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+    <script src="script.js" defer></script>
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      href="https://cdn-icons-png.flaticon.com/512/684/684908.png"
+      type="image/png"
+    />
+  </head>
+
+  <body>
+    <h1>Mapa de Lendas Urbanas</h1>
+    <div id="map"></div>
+
+    <!-- Modal de imagem -->
+    <div id="modal-imagem" onclick="fecharModal()">
+      <img id="imagem-ampliada" src="" alt="Imagem ampliada" />
+    </div>
+
+    <script>
+      function expandirImagem(img) {
+        const modal = document.getElementById("modal-imagem");
+        const modalImg = document.getElementById("imagem-ampliada");
+        modalImg.src = img.src;
+        modal.style.display = "flex";
+      }
+
+      function fecharModal() {
+        document.getElementById("modal-imagem").style.display = "none";
+      }
+    </script>
+  </body>
+</html>
