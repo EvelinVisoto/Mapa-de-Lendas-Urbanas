@@ -5,6 +5,7 @@
 An interactive web site that showcases urban legends and folklore figures.  
 Users can explore brief stories from different places, viewing images, locations, and descriptions.
 
+_This project is being developed for educational purposes, aiming at **familiarization with new APIs** and the structuring of **data in JSON**._
 
 ### Technologies Used
 
@@ -22,5 +23,3 @@ This project uses cartographic data from [OpenStreetMap](https://www.openstreetm
 
 Developed by **Evelin Visoto** – 2025  
 📌 GitHub Repository: [Urban Legends Map](https://github.com/EvelinVisoto/Mapa-de-Lendas-Urbanas)
-
-_This project is being developed for educational purposes, aiming at **familiarization with new APIs** and the structuring of **data in JSON**._
